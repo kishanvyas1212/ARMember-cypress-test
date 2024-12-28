@@ -1,0 +1,17 @@
+{
+  "name": "armember-cypress",
+  "version": "1.0.0",
+  "description": "testing the armember using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishan vyas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  },
+  "devDependencies": {
+    "cypress-cloud": "^1.13.0"
+  }
+}
